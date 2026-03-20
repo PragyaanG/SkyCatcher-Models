@@ -9,5 +9,5 @@ Mathematica model of SO2 conversion kinetics and thermodynamic equilibrium limit
 
 **Stack:** Wolfram Mathematica
 
-<img src="Assets/Plot-1.jpeg" width="400">
-<img src="Assets/Plot-2.jpeg" width="400">
+<img src="Assets/Plot-1.jpeg" width="800">
+<img src="Assets/Plot-2.jpeg" width="800">
