@@ -9,5 +9,12 @@ Mathematica model of SO2 conversion kinetics and thermodynamic equilibrium limit
 
 **Stack:** Wolfram Mathematica
 
-<img src="Assets/Plot-1.jpeg" width="800">
-<img src="Assets/Plot-2.jpeg" width="800">
+<img src="Assets/Efficiency-Plot-1.jpeg" width="800">
+<img src="Assets/Efficiency-Plot-2.jpeg" width="800">
+
+### Temperature-Pressure Conversion Map
+Python extension of the SO₂ oxidation model, mapping conversion across temperature–pressure space. Integrates Arrhenius kinetics with pressure-based equilibrium to produce a 2D phase diagram over 400–900 K and 0.5–10 atm. Demonstrates the shift from kinetic limitation to equilibrium control, showing that optimal performance emerges as a region in (T, P) space rather than a single operating condition.
+
+**Stack:** Python, Numpy, Matplotlib
+
+<img src="Assets/Temperature-Pressure-Conversion-Map.png" width="800">
